@@ -1,4 +1,4 @@
-package com.example.cajarapida
+package com.herschel.cajarapida
 
 import org.junit.Test
 

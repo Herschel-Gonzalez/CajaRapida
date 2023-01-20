@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1007891208772",
+    "project_id": "caja-rapida-77b12",
+    "storage_bucket": "caja-rapida-77b12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007891208772:android:1edcf95426cf82a0643a11",
+        "android_client_info": {
+          "package_name": "com.example.cajarapida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007891208772-4riilo09spj5jmmcrt8um3dk0tmbig80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOJ5deIWaRrqFRPK9TjxoBkhI9Oh34og0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007891208772-4riilo09spj5jmmcrt8um3dk0tmbig80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

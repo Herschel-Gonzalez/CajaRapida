@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">CajaRapida</string>
+    <string name="correo">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="register">Registrarme</string>
+    <string name="developer">Developer with ❤️ by Herschel González</string>
+    <string name="buscar">Buscar producto</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="registro">Registrarme</string>
+
+
 </resources>
