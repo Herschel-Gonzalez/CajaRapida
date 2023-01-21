@@ -1,0 +1,36 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.herschel.cajarapida.view.stadistics.StadisticsFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <Button
+        android:background="@color/yellowApp"
+        android:text="@string/fecha_de_inicio"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        />
+
+
+
+
+    <Button
+        android:layout_marginStart="142dp"
+        android:background="@color/yellowApp"
+        android:text="@string/fecha_de_fin"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        />
+
+    <Button
+        android:layout_marginStart="291dp"
+        android:background="@color/yellowApp"
+        android:text="@string/buscarEstadistica"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        />
+
+
+
+</FrameLayout>

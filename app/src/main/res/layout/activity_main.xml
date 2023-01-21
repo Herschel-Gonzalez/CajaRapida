@@ -73,7 +73,7 @@
     <Button
         android:id="@+id/login"
         android:text="@string/login"
-        android:background="#FBE646"
+        android:background="@color/yellowApp"
         android:textColor="@color/black"
         android:layout_gravity="center"
         android:layout_width="338dp"
